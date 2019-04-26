@@ -50,6 +50,9 @@ public class HashTable implements IHash {
 
 
 	}
+	public Stirng toString(key){
+		what 
+	}
 
 	public boolean remove(String key) {
 		int index = hasher.hash(key) % numberOfBuckets;
@@ -115,7 +118,7 @@ public class HashTable implements IHash {
 //            
 //            }
 //        }
-//            return null;
+//           return null;
         }
         }
         public boolean hasNext() {
