@@ -5,7 +5,7 @@
 // Class:  CS165
 // Email:  ?????
 
-import java.util.*;
+import java.util.*; wut the 
 
 public class HashTable implements IHash {
 	// Method of hashing
